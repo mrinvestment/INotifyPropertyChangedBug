@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+INotifyPropertyChangedBug
+</name>
+</assembly>
+<members>
+<member name="T:INotifyPropertyChangedBug.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:INotifyPropertyChangedBug.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:INotifyPropertyChangedBug.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:INotifyPropertyChangedBug.clMain.sFirstname">
+ <summary>
+ firstname field with manually enter
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:INotifyPropertyChangedBug.clMain.iRandomNumber">
+ <summary>
+ Random number whos changing with timer event
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:INotifyPropertyChangedBug.clMain.dRandomNumber">
+ <summary>
+ Double Test Value
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>

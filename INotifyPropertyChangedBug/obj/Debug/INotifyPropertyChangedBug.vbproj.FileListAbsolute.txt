@@ -1,0 +1,11 @@
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\bin\Debug\INotifyPropertyChangedBug.exe.config
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\bin\Debug\INotifyPropertyChangedBug.exe
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\bin\Debug\INotifyPropertyChangedBug.pdb
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\bin\Debug\INotifyPropertyChangedBug.xml
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.Form1.resources
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.Resources.resources
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.vbproj.GenerateResource.cache
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.vbproj.CoreCompileInputs.cache
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.exe
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.xml
+C:\Users\elekt7\Documents\Visual Studio 2017\Projects\INotifyPropertyChangedBug\INotifyPropertyChangedBug\obj\Debug\INotifyPropertyChangedBug.pdb
